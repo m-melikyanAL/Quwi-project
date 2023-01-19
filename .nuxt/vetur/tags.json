@@ -1,0 +1,8 @@
+{
+  "PopupEditProject": {
+    "description": "Auto imported from components/popup/edit-project.vue"
+  },
+  "CardProject": {
+    "description": "Auto imported from components/card/project.vue"
+  }
+}
